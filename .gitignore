@@ -1,0 +1,48 @@
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore SQLite database
+*.db
+
+# Ignore Parquet files
+*.parquet
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore environment files
+.env
+
+# Ignore virtual environments
+venv/
+.env/
+
+# Ignore log files
+*.log
+
+# Ignore common shapefile extensions
+*.shp
+*.shx
+*.dbf
+*.prj
+*.sbn
+*.sbx
+*.xml
+
+# Ignore images
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# Ignore other unnecessary files
+*.json
+*.geojson
+*.html
+*.csv
+*.zip
+
+# Ignore Git settings
+.gitattributes
+
