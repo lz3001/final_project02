@@ -32,7 +32,6 @@ venv/
 
 # Ignore images
 *.png
-*.jpg
 *.jpeg
 *.gif
 
